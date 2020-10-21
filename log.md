@@ -10,7 +10,6 @@
 ### Day 2: October 21, 2020
 
 **Today's Progress**: Finished creating the Blog Website Challenge using Express & EJS! It now has a compose button, routing parameters for the different posts, and truncated post previews on the home page.
-![Image of journal]
-(https://github.com/michellexliu/100-days-of-code/blob/master/pics/day2.jpg)
+![Image of journal](/pics/day2.jpg)
 
 **Thoughts:** I'm getting the hang of EJS and Express again, so today went smoother than yesterday. I'd never worked with routing parameters before, so that was something new I learned today. The "blog" currently doesn't have any database functionality, so none of the posts save when the server is re-started. In the future, I plan on implementing a database through MongoDB to save the posts.
