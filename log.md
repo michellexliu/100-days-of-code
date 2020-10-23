@@ -19,3 +19,10 @@
 **Today's Progress**: Learned the basics of SQL and MongoDB. Practiced making some databases on a local server.
 
 **Thoughts:** MongoDB is pretty new to me, so there was a bit of a learning curve getting everything set up, but I'm excited for the different projects I can make with this!
+
+### Day 4: October 23, 2020
+
+**Today's Progress**: Created a "to-do" list web app with MongoDB database integrations. This is a version of an old to-do list web app project, but now it has a database so the to-do list items get saved!
+![Image of to-do list app](/pics/day4.jpg)
+
+**Thoughts:** Starting to get the hang of MongoDB & Mongoose, not 100% comfortable with it though.
