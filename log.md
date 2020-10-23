@@ -13,3 +13,9 @@
 ![Image of journal](/pics/day2.jpg)
 
 **Thoughts:** I'm getting the hang of EJS and Express again, so today went smoother than yesterday. I'd never worked with routing parameters before, so that was something new I learned today. The "blog" currently doesn't have any database functionality, so none of the posts save when the server is re-started. In the future, I plan on implementing a database through MongoDB to save the posts.
+
+### Day 3: October 22, 2020
+
+**Today's Progress**: Learned the basics of SQL and MongoDB. Practiced making some databases on a local server.
+
+**Thoughts:** MongoDB is pretty new to me, so there was a bit of a learning curve getting everything set up, but I'm excited for the different projects I can make with this!
