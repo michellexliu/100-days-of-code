@@ -26,3 +26,9 @@
 ![Image of to-do list app](/pics/day4.jpg)
 
 **Thoughts:** Starting to get the hang of MongoDB & Mongoose, not 100% comfortable with it though.
+
+### Day 5/6: October 24-25, 2020
+
+**Today's Progress**: Worked on my project for Technica, the largest all women and non-binary hackathon! Check it out here: http://journlyapp.herokuapp.com/.
+
+**Thoughts:** This was a really fun experience, and I got to put the MongoDB & Node.js I've been learning lately into use! I struggled initially to set up the user database and authentication system, but I'm pretty happy with how everything turned out :)
