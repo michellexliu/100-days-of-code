@@ -32,3 +32,9 @@
 **Today's Progress**: Worked on my project for Technica, the largest all women and non-binary hackathon! Check it out here: http://journlyapp.herokuapp.com/.
 
 **Thoughts:** This was a really fun experience, and I got to put the MongoDB & Node.js I've been learning lately into use! I struggled initially to set up the user database and authentication system, but I'm pretty happy with how everything turned out :)
+
+### Day 7: October 26, 2020
+
+**Today's Progress**: Made some updates to my personal website: added a tab for 100 days of code and added Journly to the project gallery.
+
+**Thoughts:** Taking it easy today to cool down from the hackathon and catch up on schoolwork, so I didn't do as much coding as the other days. Hopefully will be back on track and continue the Udemy course tomorrow!
