@@ -38,3 +38,9 @@
 **Today's Progress**: Made some updates to my personal website: added a tab for 100 days of code and added Journly to the project gallery.
 
 **Thoughts:** Taking it easy today to cool down from the hackathon and catch up on schoolwork, so I didn't do as much coding as the other days. Hopefully will be back on track and continue the Udemy course tomorrow!
+
+### Day 8: October 31, 2020
+
+**Today's Progress**: Made a Twitter bot with Tweepy and started learning React.
+
+**Thoughts:** Oops missed a few days :( starting to get back into it though & am excited to learn more React!
