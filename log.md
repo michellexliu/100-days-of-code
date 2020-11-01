@@ -44,3 +44,9 @@
 **Today's Progress**: Made a Twitter bot with Tweepy and started learning React.
 
 **Thoughts:** Oops missed a few days :( starting to get back into it though & am excited to learn more React!
+
+### Day 9: November 1, 2020
+
+**Today's Progress**: Completed most of the [tic tac toe tutorial!](https://reactjs.org/tutorial/tutorial.html) on the React website!
+
+**Thoughts:** Still don't completely understand how React components and props work, but I think I'm starting to get the hang of it! It's really cool to see all the things React can do and am super excited to start implementing it into my personal projects :)
