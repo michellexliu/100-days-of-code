@@ -56,3 +56,10 @@
 **Today's Progress**: Finished the rest of the [tic tac toe tutorial!](https://reactjs.org/tutorial/tutorial.html) on the React website!
 
 **Thoughts:** Still don't really understand states and "lifting states." Definitely need a lot more practice with React.
+
+### Day 11: November 3, 2020
+
+**Today's Progress**: Made a notes app to practice React.
+![Image of notes app](/pics/day11.jpg)
+
+**Thoughts:** I think I am starting to get the hang of React! Started using functional components instead of class components and I think functional components definitely make a lot more sense to me.
