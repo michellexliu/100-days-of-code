@@ -50,3 +50,9 @@
 **Today's Progress**: Completed most of the [tic tac toe tutorial!](https://reactjs.org/tutorial/tutorial.html) on the React website!
 
 **Thoughts:** Still don't completely understand how React components and props work, but I think I'm starting to get the hang of it! It's really cool to see all the things React can do and am super excited to start implementing it into my personal projects :)
+
+### Day 10: November 2, 2020
+
+**Today's Progress**: Finished the rest of the [tic tac toe tutorial!](https://reactjs.org/tutorial/tutorial.html) on the React website!
+
+**Thoughts:** Still don't really understand states and "lifting states." Definitely need a lot more practice with React.
