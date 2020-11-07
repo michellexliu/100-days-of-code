@@ -63,3 +63,8 @@
 ![Image of notes app](/pics/day11.jpg)
 
 **Thoughts:** I think I am starting to get the hang of React! Started using functional components instead of class components and I think functional components definitely make a lot more sense to me.
+
+### Day 12: November 7, 2020
+
+**Today's Progress**: Learned about React hooks and states + made a few simple websites to practice them.
+**Thoughts:** I think states are starting to make more sense to me! Hooks with functional components felt more intuitive to me now than with states using class componenets w/ the tic tac toe program.
